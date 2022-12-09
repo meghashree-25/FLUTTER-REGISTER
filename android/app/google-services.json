@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "79254302554",
+    "project_id": "flutterregister-d0c07",
+    "storage_bucket": "flutterregister-d0c07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79254302554:android:0f6ad73e14d934fad58d63",
+        "android_client_info": {
+          "package_name": "com.example.flutterregister"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79254302554-ldg736jsnmiljsvolkotttou55fg565i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn3JaOGVgt7mw9Jk6X-549DZu4sjDHvy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79254302554-ldg736jsnmiljsvolkotttou55fg565i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
